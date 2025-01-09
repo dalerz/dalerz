@@ -28,7 +28,7 @@
 
 
 ## Ways to reach me
-  <a href="[https://www.linkedin.com/in/alexandra-klimantova](https://www.linkedin.com/in/daler-zabirov)">
+  <a href="https://www.linkedin.com/in/daler-zabirov">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
    <a href="mailto:daler.zabirov88@gmail.com">
