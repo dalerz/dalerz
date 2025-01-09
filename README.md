@@ -3,14 +3,14 @@
 -->
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Welcome%20to%20my%20GitHub%20profile!%20🌸&width=800&height=400&fontSize=50" alt="Luminance Banner">
+  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Welcome%20to%20my%20GitHub%20profile!%20🖐&width=800&height=400&fontSize=50" alt="Luminance Banner">
 </p>
 
 
 <h3 align="center">👋 Hi, I'm Daler</h3>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23FF00FF&center=true&vCenter=true&lines=QA+Engineer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&center=true&vCenter=true&lines=QA+Engineer" alt="Typing SVG">
   </a>
 </p>
 
