@@ -32,7 +32,7 @@
 | Course | Certificate |
 |--------|-------------|
 
-| ![Python](https://img.icons8.com/color/48/000000/python.png) [Программирование на Python]([https://it-wizard.pro/rest_and_grpc](https://stepik.org/course/67/)) | [![Certificate](https://img.shields.io/badge/Certificate-View-blue)](https://stepik.org/cert/2461195?lang=en) |
+| ![Python](https://img.icons8.com/color/48/000000/python.png) [Программирование на Python](https://stepik.org/course/67/) | [![Certificate](https://img.shields.io/badge/Certificate-View-blue)](https://stepik.org/cert/2461195?lang=en) |
 
 | ![Postman](https://img.icons8.com/dusk/48/postman-api.png) [Тестирование ПО: Postman для тестирования API](https://stepik.org/course/120679/) | [![Certificate](https://img.shields.io/badge/Certificate-View-teal)](https://stepik.org/cert/1755839?lang=en) |
 
