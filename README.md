@@ -27,6 +27,19 @@
 - 🕹️ Experience in both manual and automated testing for web app and backend
 
 
+  ## My Projects
+
+| Course | Certificate |
+|--------|-------------|
+
+| ![Python](https://img.icons8.com/color/48/000000/python.png) [Программирование на Python]([https://it-wizard.pro/rest_and_grpc](https://stepik.org/course/67/)) | [![Certificate](https://img.shields.io/badge/Certificate-View-blue)](https://stepik.org/cert/2461195?lang=en) |
+| ![Postman](https://icons8.com/icon/QEQQKirln6Tf/postman-api) [Тестирование ПО: Postman для тестирования API](https://stepik.org/course/120679/) | [![Certificate](https://img.shields.io/badge/Certificate-View-teal)](https://stepik.org/cert/1755839?lang=en) |
+| ![Python](https://img.icons8.com/color/48/000000/python.png) [REST API Automation in Python](https://www.learnqa.ru/python_api) | 2021 | [![REST API Automation in Python](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shinkai-tester&repo=LearnQA_PythonAPI&bg_color=DEG,FAD961,F76B1C)](https://github.com/shinkai-tester/LearnQA_PythonAPI) | [![Certificate](https://img.shields.io/badge/Certificate-View-orange)](http://cert.software-testing.ru/312404374759408201) |
+
+
+
+
+
 ## Ways to reach me
   <a href="https://www.linkedin.com/in/daler-zabirov">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
