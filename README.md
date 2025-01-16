@@ -33,12 +33,16 @@
 |--------|-------------|
 
 | ![Python](https://img.icons8.com/color/48/000000/python.png) [Программирование на Python]([https://it-wizard.pro/rest_and_grpc](https://stepik.org/course/67/)) | [![Certificate](https://img.shields.io/badge/Certificate-View-blue)](https://stepik.org/cert/2461195?lang=en) |
-| ![Postman](https://icons8.com/icon/QEQQKirln6Tf/postman-api) [Тестирование ПО: Postman для тестирования API](https://stepik.org/course/120679/) | [![Certificate](https://img.shields.io/badge/Certificate-View-teal)](https://stepik.org/cert/1755839?lang=en) |
-| ![Python](https://img.icons8.com/color/48/000000/python.png) [REST API Automation in Python](https://www.learnqa.ru/python_api) | 2021 | [![REST API Automation in Python](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shinkai-tester&repo=LearnQA_PythonAPI&bg_color=DEG,FAD961,F76B1C)](https://github.com/shinkai-tester/LearnQA_PythonAPI) | [![Certificate](https://img.shields.io/badge/Certificate-View-orange)](http://cert.software-testing.ru/312404374759408201) |
 
+| ![Postman](https://img.icons8.com/dusk/48/postman-api.png) [Тестирование ПО: Postman для тестирования API](https://stepik.org/course/120679/) | [![Certificate](https://img.shields.io/badge/Certificate-View-teal)](https://stepik.org/cert/1755839?lang=en) |
 
+| ![Selenium на Python](https://img.icons8.com/dusk/48/selenium-test-automation.png) ["Selenium на Python" от Алексея Коледачкина](https://stepik.org/course/188355/) | [![Certificate](https://img.shields.io/badge/Certificate-View-teal)](https://stepik.org/cert/2538507?lang=en) |
 
+| ![Лучший по Python. Для всех начинающих!](https://img.icons8.com/color/48/000000/python.png) [Лучший по Python. Для всех начинающих!](https://stepik.org/course/214271/) | [![Certificate](https://img.shields.io/badge/Certificate-View-teal)](https://stepik.org/cert/2725403?lang=en) |
 
+| ![Postman-ниндзя: c нуля до автотестов](https://img.icons8.com/dusk/48/postman-api.png) [Postman-ниндзя: c нуля до автотестов](https://stepik.org/course/198019/) | [![Certificate](https://img.shields.io/badge/Certificate-View-teal)](https://stepik.org/cert/2725608?lang=en) |
+
+| ![HTML & CSS](https://img.icons8.com/dusk/48/web-design.png) [Веб-разработка для начинающих: HTML и CSS](https://stepik.org/course/38218) | [![Certificate](https://img.shields.io/badge/Certificate-View-blue)](https://stepik.org/cert/2134763?lang=en) |
 
 ## Ways to reach me
   <a href="https://www.linkedin.com/in/daler-zabirov">
