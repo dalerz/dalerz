@@ -54,3 +54,6 @@
   <a href="https://t.me/daler_zabirov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+
+
+  <img src="https://github.com/shinkai-tester/shinkai-tester/blob/gh-pages/github-snake-dark.svg" alt="Commits">
