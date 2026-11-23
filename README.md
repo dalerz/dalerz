@@ -23,7 +23,7 @@
 ## About Me
 
 
-- 👨‍💻 Over 2+ years in testing
+- 👨‍💻 Over 4 years in testing
 - 🕹️ Experience in both manual and automated testing for web app and backend
 
 
